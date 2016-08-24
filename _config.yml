@@ -1,16 +1,16 @@
-typography_spectrum: 0.9116067313589156
+layout_spectrum: 0.40248515852726996
+typography_spectrum: 0.716639956459403
 color:
-  brandStrength: 0.363936526235193
-  lightness: 0.7666099148336798
-  saturation: 0.9262934853322804
-  rhythmicContrast: 0.12566022528335452
+  brandStrength: 0.9570319158956409
+  lightness: 0.47059228853322566
+  saturation: 0.8397123771719635
+  rhythmicContrast: 0.03622859320603311
   brandColors:
     - '#2E0927'
     - '#D90000'
     - '#FF2D00'
     - '#FF8C00'
     - '#04756F'
-layout_spectrum: 0.40248515852726996
 name: QueerMenno
 title: QueerMenno
 description: Queering the Mennonite Church
