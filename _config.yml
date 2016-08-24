@@ -1,16 +1,16 @@
-typography_spectrum: 0.3850615960545838
+layout_spectrum: 0.40248515852726996
+typography_spectrum: 0.3348831634502858
 color:
-  brandStrength: 0.6538859051652253
-  lightness: 0.650457005482167
-  saturation: 0.8233290908392519
-  rhythmicContrast: 0.6111700639594346
+  brandStrength: 0.9337844215333462
+  lightness: 0.08883016346953809
+  saturation: 0.7069464796222746
+  rhythmicContrast: 0.14718047878704965
   brandColors:
     - '#2E0927'
     - '#D90000'
     - '#FF2D00'
     - '#FF8C00'
     - '#04756F'
-layout_spectrum: 0.40248515852726996
 name: QueerMenno
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f879566f-2956-4e1b-9288-963e47db22b5.png
