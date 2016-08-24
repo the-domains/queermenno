@@ -1,4 +1,3 @@
-layout_spectrum: 0.40248515852726996
 typography_spectrum: 0.3850615960545838
 color:
   brandStrength: 0.6538859051652253
@@ -11,6 +10,9 @@ color:
     - '#FF2D00'
     - '#FF8C00'
     - '#04756F'
+layout_spectrum: 0.40248515852726996
 name: QueerMenno
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/84b06e67-98f2-42ea-8d2c-39ad02dd245c.jpg
 title: QueerMenno
 description: Queering the Mennonite Church
