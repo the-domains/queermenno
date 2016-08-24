@@ -1,4 +1,3 @@
-layout_spectrum: 0.40248515852726996
 typography_spectrum: 0.9116067313589156
 color:
   brandStrength: 0.363936526235193
@@ -11,4 +10,6 @@ color:
     - '#FF2D00'
     - '#FF8C00'
     - '#04756F'
+layout_spectrum: 0.40248515852726996
 name: QueerMenno
+title: QueerMenno
